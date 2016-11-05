@@ -25,14 +25,14 @@
         android:id="@+id/etuser"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="username"
+        android:hint="username"
         android:layout_marginTop="30dp"/>
 
        <EditText
            android:id="@+id/etpass"
            android:layout_width="match_parent"
            android:layout_height="wrap_content"
-           android:text="password"/>
+           android:hint="password"/>
        <Button
            android:id="@+id/btlogin"
            android:layout_width="match_parent"
